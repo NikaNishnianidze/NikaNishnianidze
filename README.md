@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hi, I'm Nika Nishnianidze  
 
 💻 **Web Developer** | 🚀 **React.js Enthusiast** | 🎨 **Tailwind CSS Lover**  
