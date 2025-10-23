@@ -11,7 +11,7 @@ I'm a passionate and highly motivated web developer with **1+ year of experience
 - 🎯 Committed to delivering high-quality work on time  
 
 ## 🛠️ Tech Stack  
-- **Frontend:** React.js, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3  
+- **Frontend:** React.js, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3, Typescript 
 - **Tools & Libraries:** React Hook Form, Yup, React Router, Axios  
 - **Version Control:** Git & GitHub  
 
